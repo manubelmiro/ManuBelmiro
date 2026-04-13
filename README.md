@@ -1,9 +1,13 @@
-# Olá! 👋
-Sou estudante de Tecnologia da Informação e estou iniciando minha jornada no mundo da programação.
-Tenho interesse em aprender cada vez mais sobre tecnologia, lógica e desenvolvimento de sistemas. Estou no começo dessa caminhada, explorando novas ferramentas e construindo meus primeiros projetos.
-Gosto da ideia de aprender um pouco a cada projeto e evoluir constantemente.
-📚 Atualmente estudando
-- Python
-- Java
-- Lógica de programação
-- Fundamentos de desenvolvimento de software
+Tecnologia e informação
+Interesses 
+RPA+IA Automação de processos
+APIs Integração de sistemas
+Mobile desenvolvimento de Apps
+Datas analytics Análise de dados
+IA aplicada ao negócio 
+UX Experiência do usuário 
+ERP + CRM Sistema de gestão 
+Logística inteligente
+No code - Low code
+Banco de dados
+
